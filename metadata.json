@@ -1,0 +1,6 @@
+{
+  "name": "Road Type Classification from GIS Images",
+  "description": "An interactive GIS Remote Sensing machine learning system that classifies road types (highways, paves, unpaved gravel, residential, and rural roads) from satellite and GIS imagery, with feature extraction maps, computer vision preprocessing filters, and a real-time CNN model-training simulation sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
